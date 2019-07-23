@@ -1,3 +1,3 @@
 # Python-3
 
-Regarding measurement.py  measeurement name is supposed to be optional.
+Regarding measurement.py  measurement name is supposed to be optional.
